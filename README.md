@@ -1,17 +1,17 @@
 ![logo](https://github.com/shouvikofficial/shouvikofficial/blob/main/githubbanner.png)
 
 <h1 align="center">Hi 👋, I'm Shouvik Dhali</h1>
-<h3 align="center">Student of Computer Science Engineering</h3>
+<h3 align="center">Student of Computer Science and Engineering</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shouvikofficial&label=Profile%20views&color=0e75b6&style=flat" alt="shouvikofficial" /> </p>
 
-- 🌱 I’m currently learning **Java , Frameworks etc.**
+- 🌱 I’m currently learning **Java,Frameworks etc.**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/shouvikofficial](www.linkedin.com/in/shouvikofficial)
 
-- 💬 Ask me about **C, Java**
+- 💬 Ask me about **C,Java**
 
 - 📫 How to reach me **shouvikdhali0@gmail.com**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amishouvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amishouvik" height="30" width="40" /></a>
+<a href="https://twitter.com/AmiShouvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amishouvik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shouvikofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shouvikofficial" height="30" width="40" /></a>
 <a href="https://fb.com/amishouvik420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amishouvik420" height="30" width="40" /></a>
 <a href="https://instagram.com/mehshouvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehshouvik" height="30" width="40" /></a>
