@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shouvikofficial&label=Profile%20views&color=0e75b6&style=flat" alt="shouvikofficial" /> </p>
 
-- 🌱 I’m currently learning **Java , Frameworks etc.**
+- 🌱 I’m currently learning **Python , Frameworks etc.**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/shouvikofficial](www.linkedin.com/in/shouvikofficial)
 
-- 💬 Ask me about **C , Java**
+- 💬 Ask me about **C , Java, Python**
 
 - 📫 How to reach me **shouvikdhali0@gmail.com**
 
